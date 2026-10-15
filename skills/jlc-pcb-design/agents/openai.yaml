@@ -1,0 +1,4 @@
+interface:
+  display_name: "JLC PCB Design"
+  short_description: "嘉立创 EDA 原理图、PCB、阻抗与制造约束设计及原生 MCP 工程核查"
+  default_prompt: "使用 $jlc-pcb-design 检查当前嘉立创 EDA 工程，并按任务范围落实原理图、PCB 和制造约束。"
