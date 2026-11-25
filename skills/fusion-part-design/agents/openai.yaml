@@ -1,0 +1,3 @@
+interface:
+  display_name: "AI化零件 · Fusion MCP"
+  short_description: "通过 Fusion MCP 创建、修改和验证可编辑零件，支持跨机器协作"
